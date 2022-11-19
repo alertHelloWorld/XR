@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ngrok": "^4.3.3",
+    "server": "^1.0.37"
+  }
+}
